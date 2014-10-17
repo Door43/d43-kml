@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[kml:home|Door43 (kml)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-kml|d43-kml repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-kml/archive/master.zip|d43-kml.zip]]
+
+**Recent Changes**
+{{changes>ns = kml}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/kml|Ethnologue data]]
+
